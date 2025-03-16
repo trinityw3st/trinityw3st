@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Trinity West! 👋
 
-<!--
-**trinityw3st/trinityw3st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I’m a **4th-year Computer Science student** at the University of Victoria with a passion for software development, problem-solving, and continuous learning. My interests span across mobile app development, web applications, and algorithmic problem-solving.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Programming Languages:** C, Python, Java, MATLAB, Swift, Assembly, HTML
+- **Databases:** PostgreSQL, SQLite
+- **Operating Systems:** macOS, Windows, Linux
+- **Software & Tools:** Visual Studio Code, DBeaver, pgAdmin, Git, Microsoft Office, Adobe Creative Cloud (Photoshop, Animate, Illustrator)
+- **Soft Skills:** Teamwork, Client Relations, Communication, Continuous Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications & Achievements
+- **Mathematics & Computing:** Strong foundation in **Calculus, Physics, Differential Equations, Matrix Algebra, Logic**.
+  - Awarded **Certificate of Achievement for Distinguished Performance**.
+- **Bilingual:** Fluent in **English and French** (French Immersion throughout school).
+
+## 📫 Connect with Me
+- **Email:** [trinitywest333@gmail.com](mailto:trinitywest333@gmail.com)
+
+🚀 *Always eager to learn, collaborate, and build cool projects!*
+
