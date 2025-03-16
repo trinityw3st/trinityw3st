@@ -1,7 +1,7 @@
-# Hi there, I'm Trinity West! 👋
+# Welcome to my profile! 👋
 
-## 💻 About Me
-I’m a **4th-year Computer Science student** at the University of Victoria with a passion for software development, problem-solving, and continuous learning. My interests span across mobile app development, web applications, and algorithmic problem-solving.
+## 💻 About me
+My name is **Trinity West**, I’m a **4th-year Computer Science student** at the University of Victoria with a passion for software development, problem-solving, and continuous learning. My interests span across mobile app development, web applications, and algorithmic problem-solving.
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** C, Python, Java, MATLAB, Swift, Assembly, HTML
